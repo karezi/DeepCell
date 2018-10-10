@@ -38,3 +38,4 @@ allow the maintainers to devote more time to the projects.
 Links
 -----
 
+.. _pip: https://pip.pypa.io/en/stable/quickstart/
